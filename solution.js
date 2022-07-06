@@ -21,3 +21,4 @@ console.log(worldCities);
 //8.
 worldCities.reverse()
 console.log(worldCities);
+//9.
